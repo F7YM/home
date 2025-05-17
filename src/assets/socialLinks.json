@@ -2,7 +2,7 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
+    "tip": "我的 Github 主页",
     "url": "https://github.com/f7ym"
   },
   {
@@ -14,7 +14,7 @@
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
+    "tip": "Email",
     "url": "mailto:f7ymqwer@outlook.com"
   }
 ]
