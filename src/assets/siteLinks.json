@@ -2,6 +2,16 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.float11.top/"
+    "link": "http://blog.float11.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "MCCR镜像",
+    "link": "http://mcc.float11.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点状态",
+    "link": "https://stats.uptimerobot.com/kqET8mZFOD"
   }
 ]
