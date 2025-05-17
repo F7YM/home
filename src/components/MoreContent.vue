@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">⌈ 世界上最快而又最慢，最长而又最短，最平凡而又最珍贵，最容易被忽视而又最令人后悔的就是时间。 ⌋</div>
 </template>
 
 <style lang="scss" scoped>
